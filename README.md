@@ -1,14 +1,18 @@
 # imageExtractor
 A python script for web scrapping. This script extracts all the figures in a web page
 
+
 **Description:**
-Un cliente me pidió remodelar el sitio web de su empresa. La empresa se dedica a vender material de plomería y tienen en su sitio un amplio inventario, de más de 100 objetos.
-El cliente no me facilitó la información en formato JSON para desplegarlo en el nuevo sitio debido a que el cliente no posee conocimientos de programación.
-Así que hice este pequeño script para extraer todas las imágenes de cada figure, junto con los figcaptions y h3 de cada artículo.
-Luego, toda esta información se guarda en un JSON para implementarlo en el FrontEnd para el nuevo sitio web
+A client asked me to remodel his company's website. The company sells plumbing supplies and they have a large inventory of over 100 items on their site.
+The client did not provide me with the information in JSON format to display it on the new site because the client has no programming skills.
+So I made this little script to extract all the images of each figure, along with the figcaptions and h3 of each article.
+Then, all this information is saved in a JSON to implement it in the FrontEnd for the new website.
 
-- Por respeto a la privacidad de mi cliente quité la URL ,la cual debes cambiar con la que deseas extraer
-- Es importante que el sitio que deseas extraer tenga etiquetas 'figure'
-- La variable 'headers' es necesaria para evitar que nuestro bot sea detectado por algunos sitios, en especial si son de wordpress
 
-Espero que este script sea de gran ayuda a la comunidad
+- Out of respect for my client's privacy I removed the URL ,which you must change with the one you want to extract.
+- It is important that the site you want to extract has 'figure' tags.
+- The variable 'headers' is necessary to prevent our bot from being detected by some sites, especially if they are wordpress sites.
+
+
+I hope this script will be of great help to the community.
+
