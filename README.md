@@ -1,7 +1,7 @@
 # imageExtractor
 A python script for web scrapping. This script extracts all the figures in a web page
 
-*Description:*
+**Description:**
 Un cliente me pidió remodelar el sitio web de su empresa. La empresa se dedica a vender material de plomería y tienen en su sitio un amplio inventario, de más de 100 objetos.
 El cliente no me facilitó la información en formato JSON para desplegarlo en el nuevo sitio debido a que el cliente no posee conocimientos de programación.
 Así que hice este pequeño script para extraer todas las imágenes de cada figure, junto con los figcaptions y h3 de cada artículo.
